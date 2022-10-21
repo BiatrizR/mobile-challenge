@@ -2,11 +2,11 @@
  
  ### Tech's:
 
-   > linguagem
+  - linguagem
      - javascript
-   > framework de desenvolvimento
+  - framework de desenvolvimento
      - react native
-   > packege manager
+  - packege manager
      - expo 
-   > build tool 
+  - build tool 
      - node.js
