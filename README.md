@@ -1,12 +1,13 @@
-## mobile-Challenge
+ ##mobile-Challenge
  
- ### Tech's:
+ ###Tech's:
 
-  - linguagem
+  - linguagem and library
      - javascript
-  - framework de desenvolvimento
      - react native
   - packege manager
      - expo 
   - build tool 
      - node.js
+ ##
+  
