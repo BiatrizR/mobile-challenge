@@ -5,7 +5,7 @@
   - linguagem and library
      - javascript
      - react native
-  - packege manager
+  - package manager
      - expo 
   - build tool 
      - node.js
